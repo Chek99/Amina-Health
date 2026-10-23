@@ -1,0 +1,8 @@
+{
+  "name": "Smart Motherhood & Infant Monitoring System",
+  "description": "AI-powered maternal and infant healthcare platform featuring WHO growth analytics, smart immunization prediction, cry acoustic analyzer, neonatal emergency triage, multi-child tracking, and doctor/nurse digital booklet portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
